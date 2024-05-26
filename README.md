@@ -21,7 +21,7 @@ This project provides a simple web application to check the Air Quality Index (A
 ### Getting Started
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/aqi-checker.git
+   git clone https://github.com/Abhijais2003/Check-Air-Quality-Index.git
    cd aqi-checker
    ```
 
@@ -58,8 +58,4 @@ This project is licensed under the MIT License.
 Feel free to fork this repository, submit issues, and send pull requests.
 
 ### Contact
-For any questions or feedback, please contact [your-email@example.com].
-
----
-
-This updated description includes instructions on how to obtain and use the WAQI API token, ensuring that users can easily set up and use the application with their own API keys.
+For any questions or feedback, please contact [jjaiswal.aj.1234@gmail.com].
