@@ -10,7 +10,9 @@ This project provides a simple web application to check the Air Quality Index (A
 - Displays a message indicating the air quality status.
 - Handles cases where the city name is not found.
 
-### Screenshot
+### Output
+![output-video](output/airQulitiyIndex.mp4)
+
 
 ### Technologies Used
 - HTML
