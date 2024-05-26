@@ -10,9 +10,8 @@ This project provides a simple web application to check the Air Quality Index (A
 - Displays a message indicating the air quality status.
 - Handles cases where the city name is not found.
 
-### Output
-![output-video](output/airQulitiyIndex.mp4)
-
+### Example
+![AQI Checker Screenshot](output/airQulitiyIndex.mp4)
 
 ### Technologies Used
 - HTML
@@ -42,9 +41,6 @@ This project provides a simple web application to check the Air Quality Index (A
 1. Enter the name of the city in the input field.
 2. Click the "Search" button.
 3. The application will display the AQI value of the entered city along with an image and status message.
-
-### Example
-![AQI Checker Screenshot](screenshot.png)
 
 ### API Used
 - **World Air Quality Index (WAQI) API**: Provides real-time air quality data for cities around the world.
