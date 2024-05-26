@@ -11,7 +11,7 @@ This project provides a simple web application to check the Air Quality Index (A
 - Handles cases where the city name is not found.
 
 ### Example
-![AQI Checker Screenshot](output/airQulitiyIndex.mp4)
+![AQI Checker Screenshot](output/airQulitiyIndex.gif)
 
 ### Technologies Used
 - HTML
