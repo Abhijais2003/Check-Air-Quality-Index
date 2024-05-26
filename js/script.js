@@ -10,7 +10,7 @@ let city;
 
 function fetchDataFromApi(value) {
   const url = `https://api.waqi.info/feed/${value}/?token=`;
-  const apiKey = "e17042cf95c3622085e880224fda566dd7165ef8";
+  const apiKey = "YOUR_API_KEY";
 
   fetch(url + apiKey)
     .then((res) => {
